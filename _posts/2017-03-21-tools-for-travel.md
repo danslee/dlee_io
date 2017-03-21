@@ -7,12 +7,11 @@ categories: tools
 
 ## Introduction
 
-These are some thoughts I had about tools with which you can and should travel.
-The emphasis will be on tools which are acceptable for airplane flight, but also generally compact efficient tools for packing away on trips.
+These are some thoughts I had about tools with which you can carry on flights.
 
 ## TSA Restrictions
 
-I remember getting on planes with my trusty original Leatherman Wave in a custom horizontal holster.
+I remember getting on planes with my trusty original Leatherman Wave in a modified horizontal holster.
 (As an aside, the original Bianchi-made Leatherman Wave holsters are still the best holsters ever made for a multitool.)
 Those days are long gone, even my mini Swiss army knife (SAK for us knife knuts) isn't allowed on any flight.
 The TSA has a [list](https://www.tsa.gov/travel/security-screening/prohibited-items) or prohibited items.
@@ -107,7 +106,7 @@ Unlike other adjustable wrenches, the Knipex wrenches apply parallel pressure ag
 They also open their jaws wider than adjustable wrenches of similar size.
 These are pricey, though, at $46.
 But again, you get what you pay for.
-After I tried one, I got donated all my screw-style adjustable wrenches and got a 10 and 7 inch with the 6 inch for travel.
+After I tried one, I donated all my screw-style adjustable wrenches and got a 10 and 7 inch with the 6 inch for travel.
 
 Scissors are an incredibly useful item to have, but given the high probability of having an overzealous agent take them, I lean towards cheap.
 I carry 6.5" blunt/blunt dissecting scissors which are all stainless, really sharp, and you can get find them on ebay for crazy cheap.
