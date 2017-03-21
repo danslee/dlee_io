@@ -34,5 +34,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - resources
+  - drafts
 permalink: pretty
 paginate: 5

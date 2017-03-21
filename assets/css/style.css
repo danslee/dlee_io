@@ -23,10 +23,6 @@ blockquote:before, blockquote:after, q:before, q:after {
 	content: '';
 	content: none;
 }
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
 
 
 
@@ -245,6 +241,20 @@ img.center {
 	}
 
 }
+
+/*** Tables ***/
+table {border-collapse: 2px;  width: 95%; margin: 0 auto 5rem;}
+
+th, td { padding: 0.5rem;}
+
+thead tr { background: #303030; }
+tr:nth-child(even) { background: #262626 }
+
+tr { background: #404040; }
+
+tr:nth-child(even) { background: #353535 }
+
+td:empty {background: hsla(50, 25%, 60%, 0.7); }
 
 
 
